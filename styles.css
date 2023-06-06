@@ -45,9 +45,8 @@ a:visited{
 .image-detail{
      height:680px;
 }
-/*
 
-@media only screen and (min-width: 300px),only screen and (max-width: 480px) {
+@media only screen and (max-width:480px){
     .image-detail {
         height:1300px;
         padding-top:200px;
@@ -61,5 +60,4 @@ a:visited{
     }
 
 }
-*/
 
