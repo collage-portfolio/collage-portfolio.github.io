@@ -58,12 +58,12 @@ a:hover{
     a, p{
         font-size:20px;
     }
-    p{
+    .label{
         padding-left:30px;
     }
     h3{
         font-size:20px;
-        height:35px;
+       height:35px;
     }
 
 }
