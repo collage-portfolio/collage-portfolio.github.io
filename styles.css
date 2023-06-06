@@ -17,7 +17,7 @@ color:darkslategray;
 }
 .collage{
     height:500px;
-padding:30px;
+    padding:30px;
     align-self:center;
 }
 a{
@@ -46,13 +46,17 @@ a:visited{
      height:680px;
 }
 
-@media only screen and (max-width:480px){
+
+@media screen and (max-width: 490px) {
     .image-detail {
-        height:1300px;
-        padding-top:200px;
+        height:550px;
+        padding-top:50px;
+    }
+    a, p{
+        font-size:20px;
     }
     p{
-        font-size:30px;
+        padding-left:30px;
     }
     h3{
         font-size:32px;
